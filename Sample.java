@@ -1,7 +1,6 @@
 public class Sample {
   public static void main(String[] args) {
     System.out.println("Hello World!");
-    System.out.println("Goodbye World!");
-    System.out.println("Hello Again World!");
+    System.out.println("Bye World!");
   }
 }
